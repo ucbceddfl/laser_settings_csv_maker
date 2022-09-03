@@ -1,0 +1,178 @@
+""
+ 
+C:\Users\paigeplan\Documents\laser_settings_csv_maker\data\#6 PLS_660 Material Settings\ACRYLIC
+ 
+0.06 (1.5mm)_Acrylic_bluefilm_08.16.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,0.0,100.0,500
+Red,Rast,30.0,100.0,500
+Green,Vect,30.0,45.0,500
+Yellow,Vect,20.0,45.0,500
+Blue,Vect,10.0,45.0,500
+Magenta,Vect,100.0,15.0,1000
+Cyan,Vect,100.0,12.0,1000
+Orange,Vect,100.0,10.0,1000
+ 
+0.06 (1.5mm)_Acrylic_paper_08.16.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,0.0,100.0,500
+Red,Rast,30.0,100.0,500
+Green,Vect,30.0,45.0,500
+Yellow,Vect,20.0,45.0,500
+Blue,Vect,10.0,45.0,500
+Magenta,Vect,100.0,17.0,300
+Cyan,Vect,100.0,15.0,300
+Orange,Vect,100.0,12.0,300
+ 
+0.12 (3mm)_Acrylic_bluefilm_08.16.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,0.0,100.0,500
+Red,Rast,30.0,100.0,500
+Green,Vect,30.0,45.0,250
+Yellow,Vect,20.0,45.0,250
+Blue,Vect,10.0,45.0,250
+Magenta,Vect,100.0,8.0,1000
+Cyan,Vect,100.0,7.0,1000
+Orange,Vect,100.0,6.0,1000
+ 
+0.12 (3mm)_Acrylic_paper_08.15.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,0.0,100.0,500
+Red,Rast,30.0,100.0,500
+Green,Vect,30.0,45.0,500
+Yellow,Vect,20.0,45.0,500
+Blue,Vect,10.0,45.0,500
+Magenta,Vect,100.0,8.0,250
+Cyan,Vect,100.0,7.0,250
+Orange,Vect,100.0,7.0,250
+ 
+0.18 (4.5mm)_Acrylic_paper_08.15.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,0.0,100.0,500
+Red,Rast,30.0,100.0,500
+Green,Vect,30.0,45.0,500
+Yellow,Vect,20.0,45.0,500
+Blue,Vect,10.0,45.0,500
+Magenta,Vect,100.0,3.0,250
+Cyan,Vect,100.0,3.0,250
+Orange,Vect,100.0,3.0,250
+ 
+0.23 (6mm)_Acrylic_bluefilm_08.16.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,0.0,100.0,500
+Red,Rast,30.0,100.0,500
+Green,Vect,30.0,45.0,500
+Yellow,Vect,20.0,45.0,500
+Blue,Vect,10.0,45.0,500
+Magenta,Vect,100.0,3.0,500
+Cyan,Vect,100.0,2.5,500
+Orange,Vect,100.0,2.0,500
+ 
+C:\Users\paigeplan\Documents\laser_settings_csv_maker\data\#6 PLS_660 Material Settings\CARDBOARD
+ 
+C-Flute (4mm)_08.15.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,0.0,100.0,500
+Red,Rast,25.0,100.0,500
+Green,Vect,30.0,100.0,500
+Yellow,Vect,20.0,100.0,500
+Blue,Vect,10.0,100.0,500
+Magenta,Vect,100.0,25.0,350
+Cyan,Vect,100.0,25.0,350
+Orange,Vect,100.0,25.0,350
+ 
+E-Flute (1.5mm)_08.15.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,0.0,100.0,500
+Red,Rast,30.0,100.0,500
+Green,Vect,50.0,75.0,500
+Yellow,Vect,30.0,75.0,500
+Blue,Vect,3.0,48.0,500
+Magenta,Vect,100.0,25.0,350
+Cyan,Vect,100.0,25.0,350
+Orange,Vect,100.0,25.0,350
+ 
+C:\Users\paigeplan\Documents\laser_settings_csv_maker\data\#6 PLS_660 Material Settings\CHIPBOARD
+ 
+0.63 (1.6mm) Chipboard_08.15.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,0.0,100.0,500
+Red,Rast,45.0,100.0,500
+Green,Vect,75.0,100.0,500
+Yellow,Vect,45.0,100.0,500
+Blue,Vect,18.0,100.0,500
+Magenta,Vect,100.0,30.0,350
+Cyan,Vect,100.0,20.0,350
+Orange,Vect,100.0,17.0,350
+ 
+C:\Users\paigeplan\Documents\laser_settings_csv_maker\data\#6 PLS_660 Material Settings\PAPER
+ 
+0.065 (1.7mm)_Paperboard_08.15.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,0.0,100.0,500
+Red,Rast,35.0,100.0,500
+Green,Vect,45.0,75.0,500
+Yellow,Vect,30.0,75.0,500
+Blue,Vect,15.0,75.0,500
+Magenta,Vect,100.0,25.0,250
+Cyan,Vect,100.0,25.0,250
+Orange,Vect,100.0,25.0,250
+ 
+Bristol_100lb_08.15.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,50.3,100.0,500
+Red,Rast,20.0,100.0,500
+Green,Vect,5.0,24.0,500
+Yellow,Vect,3.0,24.0,500
+Blue,Vect,1.0,24.0,500
+Magenta,Vect,60.0,76.0,250
+Cyan,Vect,60.0,76.0,250
+Orange,Vect,60.0,76.0,250
+ 
+Watercolor_08.15.22.las
+PLS6.60,Mode,Power,Speed,PPI
+Black,Skip,50.3,100.0,500
+Red,Rast,20.0,100.0,500
+Green,Vect,5.0,24.0,500
+Yellow,Vect,3.0,24.0,500
+Blue,Vect,1.0,24.0,500
+Magenta,Vect,40.0,100.0,500
+Cyan,Vect,40.0,100.0,500
+Orange,Vect,40.0,100.0,500
+ 
+C:\Users\paigeplan\Documents\laser_settings_csv_maker\data\#6 PLS_660 Material Settings\PLYWOOD
+ 
+0.03 (0.8mm)_BirchPly_08.15.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,0.0,100.0,500
+Red,Rast,50.0,100.0,500
+Green,Vect,50.0,75.0,250
+Yellow,Vect,25.0,75.0,250
+Blue,Vect,10.0,75.0,250
+Magenta,Vect,100.0,20.0,300
+Cyan,Vect,100.0,15.0,300
+Orange,Vect,100.0,15.0,300
+ 
+0.125 (3mm)_BirchPly_08.15.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,0.0,100.0,500
+Red,Rast,50.0,100.0,500
+Green,Vect,50.0,75.0,250
+Yellow,Vect,25.0,75.0,250
+Blue,Vect,10.0,75.0,250
+Magenta,Vect,100.0,7.0,250
+Cyan,Vect,100.0,7.0,250
+Orange,Vect,100.0,7.0,250
+ 
+0.25 (6.4mm) BirchPly_08.15.22.las
+PLS6.75,Mode,Power,Speed,PPI
+Black,Skip,0.0,100.0,500
+Red,Rast,50.0,100.0,500
+Green,Vect,50.0,75.0,250
+Yellow,Vect,25.0,75.0,250
+Blue,Vect,10.0,75.0,250
+Magenta,Vect,100.0,3.5,250
+Cyan,Vect,100.0,3.0,250
+Orange,Vect,100.0,3.0,250
+ 
+C:\Users\paigeplan\Documents\laser_settings_csv_maker\data\#6 PLS_660 Material Settings\Wood
